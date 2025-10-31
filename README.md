@@ -1,5 +1,5 @@
-# Portfolio de Análisis de Datos - [Alejandra Perea]
-👋 ¡Hola! Soy [Alejandra], analista de datos junior con pasión por el marketing digital, la visualización de datos y la moda.
+# Portfolio de Análisis de Datos - Alejandra Perea
+👋 ¡Hola! Soy Alejandra, analista de datos junior con pasión por el marketing digital, la visualización de datos y la moda.
 Me estoy especializando en transformar datos de campañas, redes sociales y ventas en insights accionables que ayuden a optimizar estrategias digitales.
 
 💻 Herramientas: Python (pandas, matplotlib), Power BI, Looker Studio, Google Analytics, SQL, Excel.
