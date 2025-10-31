@@ -6,6 +6,8 @@ Me estoy especializando en transformar datos de campañas, redes sociales y vent
 
 📈 Me encanta conectar los datos con los resultados de negocio.
 ## Proyecto 1: Segmentación y Clustering
-**Herramientas:** Python (pandas, matplotlib, numpy, seaborn), Power BI  
-**Descripción:** Limpieza y análisis de datos y clustering con metodología Kmeans
-[Ver notebook completo] (https://nbviewer.org/github/alejandrapereaf/portfolio-analisisdedatos/blob/main/AlejandraPerea.PEC.Segmentaci%C3%B3n.ipynb)
+**Herramientas:** Python (pandas, matplotlib, numpy, seaborn)
+
+**Descripción:** Limpieza y análisis de datos y clustering con metodología Kmeans.
+
+Para ver mi notebook completo pincha aquí --> (https://nbviewer.org/github/alejandrapereaf/portfolio-analisisdedatos/blob/main/AlejandraPerea.PEC.Segmentaci%C3%B3n.ipynb)
