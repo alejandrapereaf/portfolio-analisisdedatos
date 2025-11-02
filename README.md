@@ -6,7 +6,6 @@ Me estoy especializando en transformar datos de campañas, redes sociales y vent
 
 📈 Me encanta conectar los datos con los resultados de negocio.
 ## Proyecto 1: Segmentación de clientes mediante K-Means
-**Herramientas:** Python (pandas, matplotlib, numpy, seaborn)
 
 **Contexto:** Proyecto desarrollado en el Máster en Análisis de Datos en Marketing Digital, en el marco de la asignatura de *Segmentación y Clustering*.  
 
