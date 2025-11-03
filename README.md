@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Alejandra Perea]
+# 👋 ¡Hola! Soy Alejandra Perea
 
 <div align="center">
   
