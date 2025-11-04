@@ -8,7 +8,7 @@
 
 📈 Me encanta conectar los datos con los resultados de negocio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin](https://www.linkedin.com/in/alejandra-perea-fern%C3%A1ndez-365b55183/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alejandra-perea-fern%C3%A1ndez-365b55183/]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alejandrapereaf@gmail.com)
 
 </div>
