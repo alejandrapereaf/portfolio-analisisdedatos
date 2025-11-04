@@ -4,8 +4,6 @@
   
 ### 📊 Analista de Datos en Marketing Digital | 📰 Periodista | 🛍️ Especialista en Retail
 
-💻 Herramientas: Python (pandas, matplotlib, numpy, seaborn), Power BI, Looker Studio, Google Analytics, SQL, Excel.
-
 📈 Me encanta conectar los datos con los resultados de negocio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//alejandra-perea-fernández-365b55183/)
