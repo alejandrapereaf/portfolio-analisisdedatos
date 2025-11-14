@@ -97,15 +97,18 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 🎯 [Proyecto 2: Optimización de Campañas Digitales]
-**Descripción:** Análisis de rendimiento de campañas de marketing digital y propuestas de optimización  
-**Herramientas:** Google Ads, Facebook Ads Manager, Excel/Power BI  
-**Resultados clave:**
-- Análisis de ROI por canal de adquisición
-- Identificación de audiencias de alto valor
-- Recomendaciones para reducir el CPA en un X%
+### 🎯 [Proyecto 2: 🏆 **[TFM: Medición y optimización del rendimiento de las estrategias de SEO aplicado a SICOR teleasistencia El Corte Inglés ]**
+> **Trabajo Fin de Máster - Proyecto Principal**
 
-[📂 Ver proyecto completo →](link-al-proyecto)
+**Descripción:** Auditoría SEO de la plataforma de SICOR teleasistencia.
+
+**Herramientas utilizadas:**
+- 🔍 **Análisis:** Screaming Frog, Google Search Console, PageSpeed Insights, Sistrix, Brand24,
+- 📊 **Visualización:** Power BI (Cuadro de mandos interactivo)
+
+
+**📊 [Ver Cuadro de Mandos SEO →](https://app.powerbi.com/links/8cvn34Y_UB?ctid=2b079dc7-e2ea-45bc-9182-0fde14b549b1&pbi_source=linkShare)**  
+**📄 [Ver informe completo →](https://elcorteingles.sharepoint.com/:w:/r/sites/TFM-Grupo3/Documentos%20compartidos/TFM/TFM%20Final/Trabajo%20Fin%20de%20Master%20v0.7.docx?d=w2ac31fc34c1c4292a5661341f9605851&csf=1&web=1&e=Nzsdbc)**
 
 ---
 
