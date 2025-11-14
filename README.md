@@ -133,30 +133,35 @@ Experiencia internacional que desarrolló competencias clave:
 
 
 ---
-
 ## 🛠️ Habilidades Técnicas
 
 ### Análisis de Datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Visualización de Datos
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Data Studio](https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Marketing Digital
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0088CC?style=for-the-badge&logo=meta&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-
-### Otras Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+### Visualización de Datos e Informes
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### Analytics & Marketing Digital
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Welov](https://img.shields.io/badge/Welov-FF6B6B?style=for-the-badge&logo=&logoColor=white)
+
+### SEO & Auditoría Web
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-00A82D?style=for-the-badge&logo=&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF7A59?style=for-the-badge&logo=ahrefs&logoColor=white)
+![Sistrix](https://img.shields.io/badge/Sistrix-1B4B8C?style=for-the-badge&logo=&logoColor=white)
+![PageSpeed Insights](https://img.shields.io/badge/PageSpeed_Insights-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Accesibilidad Web
+![TAW](https://img.shields.io/badge/TAW-6B4C9A?style=for-the-badge&logo=&logoColor=white)
+![UserWay](https://img.shields.io/badge/UserWay-6E4FF5?style=for-the-badge&logo=&logoColor=white)
 
 ---
 
