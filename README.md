@@ -126,14 +126,11 @@ Experiencia internacional que desarrolló competencias clave:
 - 🌦️ **Meteostat API:** Datos meteorológicos históricos
 - 📓 **Jupyter Notebook:** Documentación y análisis interactivo
 
+**🔍 [Ver preprocesamiento de los datos en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)**
+**📓 [Ver datos extraidos con API de Meteostat →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/2.%20Meteostat.ipynb)**  
+**💻 [Ver Informe completo completo en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/3.Informe.ipynb)**
 
 
-**📓 [Ver análisis completo en Jupyter Notebook →](https://nbviewer.org/github/tu-usuario/tu-repositorio/blob/main/notebook.ipynb)**  
-**💻 [Ver código en GitHub →](https://github.com/tu-usuario/tu-repositorio)**
-
----
-
-[📂 Ver proyecto completo →](https://nbviewer.org/github/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)
 
 ---
 
