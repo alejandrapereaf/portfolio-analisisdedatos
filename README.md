@@ -81,7 +81,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ## 🚀 Proyectos Destacados
 
-### 📈 [Proyecto 1: Segmentación de clientes mediante K-Means]
+### 📈 Proyecto 1: Segmentación de clientes mediante K-Means
 
 **Contexto:** Proyecto desarrollado en el Máster en Análisis de Datos en Marketing Digital, en el marco de la asignatura de *Segmentación y Clustering*.  
 
@@ -97,7 +97,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 🏆 [Proyecto 2: **[TFM: Medición y optimización del rendimiento de las estrategias de SEO aplicado a SICOR teleasistencia El Corte Inglés ]**
+### 🏆 Proyecto 2: **TFM: Medición y optimización del rendimiento de las estrategias de SEO aplicado a SICOR teleasistencia El Corte Inglés**
 > **Trabajo Fin de Máster - Proyecto Principal**
 
 **Descripción:** Auditoría SEO de la plataforma de SICOR teleasistencia.
@@ -112,7 +112,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 🎵 [Proyecto 3:[Data Driving --> Análisis de Hábitos de Escucha Musical vs. Datos Meteorológicos]
+### 🎵 Proyecto 3:Data Driving --> Análisis de Hábitos de Escucha Musical vs. Datos Meteorológicos
 **Descripción:** Análisis exploratorio de datos personales de Spotify correlacionados con datos meteorológicos de la API de Meteostat para identificar patrones entre el clima y las preferencias musicales.
 
 **Objetivos:**
@@ -133,7 +133,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-[📂 Ver proyecto completo →](link-al-proyecto)
+[📂 Ver proyecto completo →](https://nbviewer.org/github/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)
 
 ---
 
