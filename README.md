@@ -181,7 +181,7 @@ Experiencia internacional que desarrolló competencias clave:
 ¿Quieres saber más sobre mi trabajo o discutir cómo puedo aportar valor al equipo de marketing digital?
 
 - 📧 Email: [alejandrapereaf@gmail.com]
-- 💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/alejandra-perea-fern%C3%A1ndez-365b55183/)
+- 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/in/alejandra-perea-fern%C3%A1ndez-365b55183/)
 
 ---
 
