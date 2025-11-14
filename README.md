@@ -81,7 +81,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ## 🚀 Proyectos Destacados
 
-### 📈 [Proyecto 1:Segmentación de clientes mediante K-Means]
+### 📈 [Proyecto 1: Segmentación de clientes mediante K-Means]
 
 **Contexto:** Proyecto desarrollado en el Máster en Análisis de Datos en Marketing Digital, en el marco de la asignatura de *Segmentación y Clustering*.  
 
@@ -97,13 +97,13 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 🎯 [Proyecto 2: 🏆 **[TFM: Medición y optimización del rendimiento de las estrategias de SEO aplicado a SICOR teleasistencia El Corte Inglés ]**
+### 🏆 [Proyecto 2: **[TFM: Medición y optimización del rendimiento de las estrategias de SEO aplicado a SICOR teleasistencia El Corte Inglés ]**
 > **Trabajo Fin de Máster - Proyecto Principal**
 
 **Descripción:** Auditoría SEO de la plataforma de SICOR teleasistencia.
 
 **Herramientas utilizadas:**
-- 🔍 **Análisis:** Screaming Frog, Google Search Console, PageSpeed Insights, Sistrix, Brand24,
+- 🔍 **Análisis:** Screaming Frog, PageSpeed Insights, Sistrix, Brand24, Google Trends, etc.
 - 📊 **Visualización:** Power BI (Cuadro de mandos interactivo)
 
 
@@ -112,13 +112,26 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 💡 [Proyecto 3: Análisis Predictivo de Ventas]
-**Descripción:** Modelo predictivo para forecasting de ventas basado en datos históricos y tendencias  
-**Herramientas:** Python (pandas, scikit-learn), SQL, Visualización de datos  
-**Resultados clave:**
-- Modelo con precisión del X% en predicción de ventas
-- Identificación de factores clave que influyen en las ventas
-- Recomendaciones para gestión de inventario
+### 🎵 [Proyecto 3:[Data Driving --> Análisis de Hábitos de Escucha Musical vs. Datos Meteorológicos]
+**Descripción:** Análisis exploratorio de datos personales de Spotify correlacionados con datos meteorológicos de la API de Meteostat para identificar patrones entre el clima y las preferencias musicales.
+
+**Objetivos:**
+- Explorar la relación entre condiciones climáticas y hábitos de consumo musical
+- Identificar patrones de escucha según temperatura, precipitaciones y otras variables meteorológicas
+- Aplicar técnicas de análisis de datos y visualización en Python
+
+**Herramientas utilizadas:**
+- 🐍 **Python:** pandas, numpy, matplotlib, seaborn
+- 🎵 **Spotify API:** Extracción de datos personales de escucha
+- 🌦️ **Meteostat API:** Datos meteorológicos históricos
+- 📓 **Jupyter Notebook:** Documentación y análisis interactivo
+
+
+
+**📓 [Ver análisis completo en Jupyter Notebook →](https://nbviewer.org/github/tu-usuario/tu-repositorio/blob/main/notebook.ipynb)**  
+**💻 [Ver código en GitHub →](https://github.com/tu-usuario/tu-repositorio)**
+
+---
 
 [📂 Ver proyecto completo →](link-al-proyecto)
 
