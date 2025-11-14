@@ -173,23 +173,6 @@ Experiencia internacional que desarrolló competencias clave:
 - ✅ Análisis de tendencias y estacionalidad
 - ✅ Customer Lifetime Value (CLV) y análisis de rentabilidad
 
----
-
-## 🎯 ¿Por Qué Debería Formar Parte del Equipo de Marketing Digital?
-
-1. **Conozco el negocio desde dentro** - Mi experiencia en tienda me da una comprensión única del cliente y del producto
-
-2. **Tengo las habilidades técnicas necesarias** - El máster me ha preparado con las herramientas y metodologías más actuales del sector
-
-3. **Puedo aportar valor inmediato** - Combino conocimiento del negocio con capacidades analíticas avanzadas
-
-4. **Inversión de la empresa en mi desarrollo** - La empresa ha apostado por mi formación, ahora puedo retribuir ese esfuerzo con resultados
-
-5. **Visión 360º** - Entiendo tanto el online como el offline, fundamental para estrategias omnicanal
-
-6. **Mentalidad global y multicultural** - Mi experiencia internacional me permite entender mercados diversos y trabajar en entornos multiculturales
-
-7. **Dominio de idiomas clave** - Capacidad para analizar mercados y comunicarme con equipos en español, alemán e inglés
 
 ---
 
