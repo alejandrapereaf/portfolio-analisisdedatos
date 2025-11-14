@@ -128,7 +128,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 **🔍 [Ver preprocesamiento de los datos en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)**
 **📓 [Ver datos extraidos con API de Meteostat →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/2.%20Meteostat.ipynb)**  
-**💻 [Ver Informe completo completo en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/3.Informe.ipynb)**
+**💻 [Ver informe completo en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/3.Informe.ipynb)**
 
 
 
@@ -197,9 +197,8 @@ Experiencia internacional que desarrolló competencias clave:
 
 ¿Quieres saber más sobre mi trabajo o discutir cómo puedo aportar valor al equipo de marketing digital?
 
-- 📧 Email: [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 LinkedIn: [Tu Perfil](tu-linkedin)
-- 📱 Teléfono: [Tu teléfono]
+- 📧 Email: [tu-email@example.com](alejandrapereaf@gmail.com)
+- 💼 LinkedIn: [Tu Perfil](https://www.linkedin.com/in/alejandra-perea-fern%C3%A1ndez-365b55183/)
 
 ---
 
@@ -209,7 +208,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-*Última actualización: [Fecha]*
+*Última actualización: [14/11/2025]*
 
 </div>
 
