@@ -28,18 +28,18 @@ Soy una profesional con **experiencia en el sector retail** y formación en Peri
 ## 🎓 Formación
 
 **Máster en Análisis de Datos en Marketing Digital**  
-*[Universidad/Institución] | [Año]*  
-Formación financiada por la empresa como parte de mi desarrollo profesional
+*[Universidad de Alcalá] | [2025]*  
+
 
 **Grado en Periodismo**  
-*[Universidad] | [Año]*
+*[Universidad Complutense de Madrid] | [2024]*
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### Vendedora | [Nombre de la Empresa]
-*[Fecha inicio] - Actualidad*
+### Vendedora | [Sfera/El Corte Inglés]
+*[2019] - Actualidad*
 
 Durante mi tiempo en tienda he desarrollado:
 - 🎯 Comprensión profunda del customer journey y puntos de dolor del cliente
@@ -49,8 +49,8 @@ Durante mi tiempo en tienda he desarrollado:
 
 **Esta experiencia me permite aportar una perspectiva única al análisis de datos:** entiendo los números porque conozco a las personas detrás de ellos.
 
-### Au Pair | Alemania
-*[Fecha inicio] - [Fecha fin] | 3,5 años*
+### Au Pair | Frankfurt am Main (Alemania)
+*[2015] - [2019|*
 
 Experiencia internacional que desarrolló competencias clave:
 - 🌍 Adaptabilidad en entornos multiculturales y capacidad de integración
