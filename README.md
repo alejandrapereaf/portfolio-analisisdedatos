@@ -132,7 +132,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 ---
 
-### 🎵 Proyecto 4:Herramienta de automatización de cuadrantes semanales
+### 🗓️ Proyecto 4:Herramienta de automatización de cuadrantes semanales
 **Descripción:**** Desarrollo de una herramienta en formato HTML para automatizar la creación de cuadrantes semanales en un entorno retail, transformando un proceso manual en un flujo estructurado y automatizado.
 
 
@@ -157,7 +157,10 @@ Experiencia internacional que desarrolló competencias clave:
 
 - 📋 Estandarización y mejora de la claridad de los cuadrantes generados
 
-**🔍 [Ver herramienta →](cuadrante-html-standalone.html)**
+## 🚀 Demo de la herramienta
+💻 **[Abrir herramienta de automatización →](https://TUUSUARIO.github.io/automatizacion-cuadrantes/)**
+
+
 
 
 
