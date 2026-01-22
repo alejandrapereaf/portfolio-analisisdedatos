@@ -130,6 +130,40 @@ Experiencia internacional que desarrolló competencias clave:
 **📓 [Ver datos extraidos con API de Meteostat →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/2.%20Meteostat.ipynb)**  
 **💻 [Ver informe completo en Jupyter Notebook →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/3.Informe.ipynb)**
 
+---
+
+### 🎵 Proyecto 4:Herramienta de automatización de cuadrantes semanales
+**Descripción:**** Desarrollo de una herramienta en formato HTML para automatizar la creación de cuadrantes semanales en un entorno retail, transformando un proceso manual en un flujo estructurado y automatizado.
+
+
+**Objetivos:**
+- Analizar y modelar el proceso de planificación de turnos y horarios
+
+- Estructurar datos de entrada (disponibilidad, turnos, descansos) para su tratamiento automático
+
+- Reducir errores y tiempo dedicado a una tarea repetitiva mediante automatización.
+
+**Herramientas utilizadas:**
+- 🌐 **HTLM:** Interfaz y lógica de generación de cuadrantes
+- 🤖 **IA (Claudet):** Apoyo en la generación y refinado del código
+- 🧠 **Pensamiento analítico:** Definición de reglas, restricciones y validación de resultados
+- 📊 **Jupyter Notebook:** Documentación y análisis interactivo
+
+
+**Resultados clave:**
+- ⏱️ Reducción significativa del tiempo de planificación semanal
+
+- ✅ Disminución de errores en la asignación de turnos
+
+- 📋 Estandarización y mejora de la claridad de los cuadrantes generados
+
+**🔍 [Ver herramienta →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)**
+
+
+
+
+
+
 
 
 ---
