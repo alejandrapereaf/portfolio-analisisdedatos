@@ -157,7 +157,7 @@ Experiencia internacional que desarrolló competencias clave:
 
 - 📋 Estandarización y mejora de la claridad de los cuadrantes generados
 
-**🔍 [Ver herramienta →](https://github.com/alejandrapereaf/portfolio-analisisdedatos/blob/main/Preprocesamieto.ipynb)**
+**🔍 [Ver herramienta →](cuadrante-html-standalone.html)**
 
 
 
